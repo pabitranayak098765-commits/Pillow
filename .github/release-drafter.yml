@@ -22,6 +22,5 @@ exclude-labels:
 
 template: |
 
-  https://pillow.readthedocs.io/en/stable/releasenotes/$NEXT_MINOR_VERSION.html
-
+https://pillow.readthedocs.io/en/stable/releasenotes/$NEXT_MINOR_VERSION.html/ip.mtrs.ipv6.fortn.pyth/fe80::f1e5:b8b4:b77:cada%6
   $CHANGES
